@@ -1,0 +1,227 @@
+# この viminfo ファイルは Vim 7.4 によって生成されました.
+# 変更する際には十分注意してください!
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 最後の 検索パターン:
+~Msle0~/let
+
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:xa
+:q!
+:q
+:wq
+:set paste
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+? let
+? tnoremap
+? \\
+? inoremap jj <Esc>
+? set
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+"0	LINE	0
+	inoremap { {} <LEFT>
+""1	LINE	0
+	    else
+"2	LINE	0
+	      endif
+"3	LINE	0
+	        call system('git clone ' . s:dein_repo . ' ' . s:dein_repo_dir)
+"4	LINE	0
+	        echo 'git clone ' . s:dein_repo . ' ' . s:dein_repo_dir
+"5	LINE	0
+	        let s:dein_repo = 'https://github.com/' . s:dein_repo_name
+"6	LINE	0
+	        echo 'dein is not installed, install now '
+"7	LINE	0
+	        let s:dein_enabled = 1
+"8	LINE	0
+	      if s:is_clone == 1
+"9	LINE	0
+	      let s:is_clone = confirm('Prepare dein?', 'Yes\nNo', 2)
+"-	CHAR	0
+	 
+
+# ファイルマーク:
+'0  14  2  ~/.vimrc_guni
+'1  1814  4  ~/.vimrc
+'2  9  0  ~/.vimrc
+'3  6  20  ~/.vimrc
+'4  3  0  ~/.vimrc
+'5  1  0  ~/.vimrc
+
+# ジャンプリスト (新しいものが先):
+-'  14  2  ~/.vimrc_guni
+-'  11  2  ~/.vimrc_guni
+-'  9  0  ~/.vimrc_guni
+-'  6  0  ~/.vimrc_guni
+-'  1  4  ~/.vimrc_guni
+-'  1814  4  ~/.vimrc
+-'  1817  10  ~/.vimrc
+-'  1813  4  ~/.vimrc
+-'  1812  0  ~/.vimrc
+-'  1807  8  ~/.vimrc
+-'  1806  0  ~/.vimrc
+-'  881  0  ~/.vimrc
+-'  547  0  ~/.vimrc
+-'  556  0  ~/.vimrc
+-'  570  0  ~/.vimrc
+-'  584  0  ~/.vimrc
+-'  241  0  ~/.vimrc
+-'  19  22  ~/.vimrc
+-'  36  4  ~/.vimrc
+-'  37  4  ~/.vimrc
+-'  38  0  ~/.vimrc
+-'  39  4  ~/.vimrc
+-'  40  4  ~/.vimrc
+-'  41  6  ~/.vimrc
+-'  42  6  ~/.vimrc
+-'  43  8  ~/.vimrc
+-'  44  8  ~/.vimrc
+-'  45  8  ~/.vimrc
+-'  46  8  ~/.vimrc
+-'  47  8  ~/.vimrc
+-'  48  6  ~/.vimrc
+-'  49  4  ~/.vimrc
+-'  50  6  ~/.vimrc
+-'  9  0  ~/.vimrc
+-'  6  20  ~/.vimrc
+-'  1  2  ~/.vimrc
+-'  3  0  ~/.vimrc
+-'  11  0  ~/.vimrc
+-'  12  0  ~/.vimrc
+-'  195  7  ~/.vimrc
+-'  381  0  ~/.vimrc
+-'  192  7  ~/.vimrc
+-'  378  0  ~/.vimrc
+-'  7  0  ~/.vimrc
+-'  8  0  ~/.vimrc
+-'  191  7  ~/.vimrc
+-'  377  0  ~/.vimrc
+-'  188  7  ~/.vimrc
+-'  374  0  ~/.vimrc
+-'  1814  4  ~/.vimrc
+-'  1817  10  ~/.vimrc
+-'  1813  4  ~/.vimrc
+-'  1812  0  ~/.vimrc
+-'  1807  8  ~/.vimrc
+-'  1806  0  ~/.vimrc
+-'  881  0  ~/.vimrc
+-'  547  0  ~/.vimrc
+-'  556  0  ~/.vimrc
+-'  570  0  ~/.vimrc
+-'  584  0  ~/.vimrc
+-'  241  0  ~/.vimrc
+-'  19  22  ~/.vimrc
+-'  36  4  ~/.vimrc
+-'  37  4  ~/.vimrc
+-'  38  0  ~/.vimrc
+-'  39  4  ~/.vimrc
+-'  40  4  ~/.vimrc
+-'  41  6  ~/.vimrc
+-'  42  6  ~/.vimrc
+-'  43  8  ~/.vimrc
+-'  44  8  ~/.vimrc
+-'  45  8  ~/.vimrc
+-'  46  8  ~/.vimrc
+-'  47  8  ~/.vimrc
+-'  48  6  ~/.vimrc
+-'  49  4  ~/.vimrc
+-'  50  6  ~/.vimrc
+-'  9  0  ~/.vimrc
+-'  6  20  ~/.vimrc
+-'  1  2  ~/.vimrc
+-'  3  0  ~/.vimrc
+-'  11  0  ~/.vimrc
+-'  12  0  ~/.vimrc
+-'  195  7  ~/.vimrc
+-'  381  0  ~/.vimrc
+-'  192  7  ~/.vimrc
+-'  378  0  ~/.vimrc
+-'  7  0  ~/.vimrc
+-'  8  0  ~/.vimrc
+-'  191  7  ~/.vimrc
+-'  377  0  ~/.vimrc
+-'  188  7  ~/.vimrc
+-'  374  0  ~/.vimrc
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/.vimrc_guni
+	"	14	2
+	^	50	5
+	.	50	5
+	+	1	0
+	+	51	0
+	+	1	0
+	+	51	0
+	+	51	0
+	+	50	5
+
+> ~/.vimrc
+	"	1814	4
+	^	19	2
+	.	20	0
+	+	50	299
+	+	50	7
+	+	195	7
+	+	1	0
+	+	1	0
+	+	12	0
+	+	2	20
+	+	1	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	11	0
+	+	12	0
+	+	1	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	4	0
+	+	3	12
+	+	4	12
+	+	5	12
+	+	5	20
+	+	5	20
+	+	6	20
+	+	10	0
+	+	11	0
+	+	10	0
+	+	10	0
+	+	9	0
+	+	50	53
+	+	50	76
+	+	50	103
+	+	50	136
+	+	50	142
+	+	50	148
+	+	50	154
+	+	50	155
+	+	50	165
+	+	50	166
+	+	50	165
+	+	50	242
+	+	50	274
+	+	50	296
+	+	50	313
+	+	50	349
+	+	50	0
+	+	19	2
+	+	20	0

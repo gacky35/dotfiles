@@ -1,0 +1,13 @@
+[[plugins]]
+repo = 'scrooloose/nerdtree'
+
+
+[[plugins]]
+repo = 'sjl/badwolf'
+
+[[plugins]]
+repo = 'Shougo/neosnippet-snippets'
+
+
+[[plugins]]
+repo = 'Shougo/neocomplete.vim'
